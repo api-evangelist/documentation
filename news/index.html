@@ -5,6 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 	<li>
 		<a href="{{ post.source }}" title="{{ post.title }}" style="color:#000; font-size: 12px;">{{ post.title }}</a>
+		{{ post.date | date_to_string }} 
 		{% if post.domain != null %}(<a href="http://{{ post.domain }}" style="color:#000; font-size: 12px;"><i>{{ post.domain }}</i></a>){% endif %}
 	</li>
 {% endfor %}
