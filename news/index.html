@@ -6,8 +6,7 @@ layout: default
 	{% if post.title != null %}
 	<li>
 		<a href="{{ post.source }}" title="{{ post.title }}" style="color:#000; font-size: 12px;">{{ post.title }}</a>
-		&nbsp;<span style="color:#000; font-size: 12px;">{{ post.date | date_to_string }}</span>&nbsp;
-		{% if post.domain != null %}(<a href="http://{{ post.domain }}" style="color:#000; font-size: 12px;"><i>{{ post.domain }}</i></a>){% endif %}
+		<span style="color:#000; font-size: 12px;">(&nbsp;{{ post.date | date_to_string }}&nbsp;{% if post.domain != null %}<a href="http://{{ post.domain }}" style="color:#000; font-size: 12px;"><i>{{ post.domain }}</i></a>{% endif %})</span>
 	</li>
 	{% endif %}
 {% endfor %}
