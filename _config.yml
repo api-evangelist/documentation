@@ -8,8 +8,6 @@ author:
   name:       'Kin Lane'
   email:      'info@apievangelist.com'
 markdown:     kramdown
-permalink:    pretty
-pygments:     true
 
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
