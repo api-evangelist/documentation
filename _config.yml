@@ -3,6 +3,7 @@ url:          http://documentation.apievangelist.com
 logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-documentation.png
 logo_width:   80
 logo_bottom_padding: 10
+
 version:      1.1.1
 author:
   name:       'Kin Lane'
@@ -70,7 +71,7 @@ navigation:
     link2: /data/buildingblocks.json
     size2: 60
     padding: 0
-    decorate: 0    
+    decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
     size1: 80
