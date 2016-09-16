@@ -204,26 +204,6 @@
 		]
 	},
 	{
-		"id": "rJlpk76gsePja5116Fg8PbM8tREmq2ry0o123osK6116116QDRtXq8kXeHKUcJtXZrr29Rt7ONx8r7ZQ8xblKAzql4arrw117117",
-		"name": "RestDoc",
-		"summary": "RestDoc provides a specification and tooling to describe the structure and functionality of REST APIs.",
-		"details": "RestDoc provides a specification and tooling to describe the structure and functionality of REST APIs.",
-		"website": "http://www.restdoc.org/",
-		"twitter": "",
-		"github": "https://github.com/RestDoc",
-		"apisjson_url": "",
-		"portal_url": "https://github.com/RestDoc",
-		"base_url": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RestDoc-Logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RestDoc-Logo.png",
-		"tags": [
-			"Documentation"
-		]
-	},
-	{
 		"id": "f123r1SlD0363a7fw56lAd116OqN5fiwIjWAa1164KhfvbYgc30EWgUs1237kvJq123IbeP6vaTn0uLozvADmnIQ8dijkP0g117117",
 		"name": "SDK Bridge",
 		"summary": "SDK Bridgeu0026nbsp;is a company that specializes in explaining technology through documentation and software development kits. It provides a variety of API-related services including:nnAPI DocumentationnSample code and tutorialsnHighly technical copywritingnTraining sessions on how to use software platformsnTechnology classes for youthnnThese services can be a critical piece of delivering your API. S",
