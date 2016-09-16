@@ -1,5 +1,25 @@
 [
 	{
+		"id": "irCHwM75sWNu53tLissxconfwjIOhAbKtaVAtBTYlyTkDC4BBBG2LqCy2XlZshl2RervKONGtVBRmc095PTsjg117117",
+		"name": "API Docs",
+		"summary": "Hosted public API documentation for every OAS (Swagger) and RAML spec out there.",
+		"details": "Hosted public API documentation for every OAS (Swagger) and RAML spec out there.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Documentation"
+		]
+	},
+	{
 		"id": "zYZSdJLklxKeseQOM3EyxcwHtPwF26jBhkta4wkzxC3wae116tUF123YEfalfSZyBEdjhvNiOacwDdF116l123yEV5shXQ117117",
 		"name": "Apiary",
 		"summary": "Apiary.io is a hosted suite of tools that help companies build web APIs quickly, test and monitor them easily and document them effortlessly. It provides API owners with necessary infrastructure and helps them build relationship with their users. Core of the self-service solution is API Blueprint, an efficient format for describing an API, aspiring to define new gold standard for REST API developm",
