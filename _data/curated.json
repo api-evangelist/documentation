@@ -1,5 +1,117 @@
 [
 	{
+		"curated_id": "xIKGtcrRr5M123lM116VgKZKQ0jSNCjNLK44ZaUCqsq6X15m8Xx123Qt116fAV2PFNrZIwkexwzoHJEX6GaVLoInRQiTRA117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Announcing the new Docs Repo on GitHub",
+		"url": "https://blog.docker.com/2016/09/announcing-new-docs-repo-github/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "u95czUlC7um0Sylt3g92rjh6Wbh7t2oU4l1n123S1169klJyAc9HQWDBwQ3zWtl0NBx7QVCH1luBhFiH276XDWg8nw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Box Announces Four New Security and Governance APIs",
+		"url": "http://www.programmableweb.com/news/box-announces-four-new-security-and-governance-apis/2016/09/22",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GaOV21165lGcIOvrEUDNPc3Ks4GKGmTxlFkOEPgFGe5ijqFlWrEUY7TXIy0p6zI7BnAhBV4kcbiMeCTJqXuNvP123A117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Best Practices for Writing API Docs and Keeping Them Up To Date",
+		"url": "https://blog.readme.io/best-practices-for-writing-api-docs-and-keeping-them-up-to-date/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
+		"curated_id": "18dY116Pu0xjEjywoaSFtoTg8HaavUeRhGtau123FKiNIuiu116jhQcV4oc7BseGLN8lvBN2q5vKRqN3WZ7dUy1rJWrg117117",
+		"item_date": "2016-09-21 09:57:02",
+		"title": "Aglio API Documentation Tool That Has It All  JetRuby",
+		"url": "https://medium.com/jetruby/aglio-api-documentation-tool-that-has-it-all-ea0b767d832a#.hjahmeqyg",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4aXmrpEv116116zOkLkfHkuT116TCcl0hCXzVskgFuHTO6IgiZ123tORy0GzOR7CM0Lj1f68FNFz7jk116lIzgClwHelLuHg117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "3 Takeaways From Our First API Meetup",
+		"url": "https://blog.percolate.com/2016/09/takeaways-first-api-meetup-documentation/",
+		"domain": "blog.percolate.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rs80YlqwWywYUHT531ajY2BRR3JsOI116EkXUaLldDz89rMZkMxzWpzeMzNbr0Jfhu116khdIIO7CTj9vFEvnlKw123g117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Implementing Swagger in your API documentation",
+		"url": "http://idratherbewriting.com/2016/09/08/swagger-article-for-istc-publication/",
+		"domain": "idratherbewriting.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nQ8ZcBFZ1uFvGBh0b3iwi9I7116xTP5zFH0hGNxBzs2WAFLkuF123Rrj7xOTdi5m1mV9IjJJPFXlDkmqDSKtsBYfgA117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Our Docs Are Now Hosted on GitHub",
+		"url": "http://blog.parse.com/announcements/our-docs-are-now-hosted-on-github/",
+		"domain": "blog.parse.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dJm1Ty9xVrX8oWOgdcsMlOZnqJjxUGEBbVPiEY123ElLmrNPX62cr2TQYq123we123doN123UGhmjaueLklby7nnzL6t8Q117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "ASPNET Web API Documentation using Swagger",
+		"url": "http://www.codeproject.com/Articles/1121151/ASP-NET-Web-API-Documentation-using-Swagger",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g116bfumYI5y123larW34yErkGXZ7VyJcf1QdrZNvcIIYlguEQ21rL0lpy7123FBdTDWz123H700wdQ2606Ot40PfmSMdw117117",
+		"item_date": "2016-08-22 02:36:00",
+		"title": "A makeover for developer documentation",
+		"url": "https://developer.intuit.com/hub/blog/2016/08/08/makeover-developer-documentation",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vPd123gL92aYNKrN3NBy78PJte0116YDF0a8muY1WWHmlKZY68awlbKVhzvW123gMf0OCIHcKtgkhzL3qAA2xvGo3Fuw117117",
+		"item_date": "2016-08-18 15:08:25",
+		"title": "Share and document your API with Postman Cloud",
+		"url": "http://www.theodo.fr/blog/2016/08/share-and-document-your-api-with-postman-cloud/",
+		"domain": "www.theodo.fr",
+		"image": ""
+	},
+	{
+		"curated_id": "PCSjBEo7gEmdTUscT9PFk4bAbCcuJv0yN29N5j7S8C0VbNYDfRsd2LNfjP1123X123zW3Nz44mrEP729JkZs9t8WIw117117",
+		"item_date": "2016-08-16 09:38:00",
+		"title": "What is the Difference Between API Documentation Specification and Definition",
+		"url": "http://nordicapis.com/difference-api-documentation-specification-definition/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pFD4i1LSy8q123Lv123AgfZPx5JEuPT7q6lcVeRZ5wRJAZ123sx9zAeh2DkOlulUtMyANnxDSxrR5xs6WoZs5LoNpBhg117117",
+		"item_date": "2016-08-15 00:00:00",
+		"title": "Why You Should Let Robots Help You Write Your API Documentation",
+		"url": "https://blog.readme.io/why-you-should-let-robots-help-you-write-your-api-documentation/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
+		"curated_id": "XI0MMhI123Slo2lrKWboo4WahMjm7vJr123ZzTfS0xIaXsrIXkivDEWyJX116AzVCxjUbPbg7kUSawBDy74xV1DWTcrA117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "Web API documentation can be confusing to read",
+		"url": "http://www.apiful.io/intro/2016/08/12/doc-confusing-user.html",
+		"domain": "www.apiful.io",
+		"image": ""
+	},
+	{
+		"curated_id": "D1166116YD4BXfJ7AG4enwyGPjFIGKLsMl2kQ8DGYnfeF4uZ3g6fQ2bf5QGDFdse3CesM5WEoPtALoDrnsQ9htZcyQ117117",
+		"item_date": "2016-08-08 00:00:00",
+		"title": "I hated writing documentation so I founded a company",
+		"url": "https://blog.readme.io/i-hated-writing-documentation-so-i-founded-a-company/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
 		"curated_id": "MGw4kgKKOr6j1234123JVcFY5CDCrdo0WVDDWrazcaB123kfVKiyJa8zG3ujiNCQOXXZeo2R7qX6c94K7hQ1asRra13w117117",
 		"item_date": "2016-08-08 13:19:38",
 		"title": "Install Gelato  Integrations Directory",
