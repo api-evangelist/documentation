@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "BYdFLdFmSYXSigKG116pmZ9MJVDmhQIAO123MCsF116WbPDQayIUAmc4OisFFahQlGSYqCnJS116klrvGymNS1XHq7l0cg117117",
+		"item_date": "2017-02-07 08:35:19",
+		"title": "DocumentationDriven API Design",
+		"url": "http://hbr.li/DocAPI",
+		"domain": "hbr.li",
+		"image": ""
+	},
+	{
+		"curated_id": "MNSo1pvn770wIYfSP116oWXn6CQo116bPntom9y3HOHkyF2XO123kvELPwmXASTFphdLdZt7BLbUppTabhdlKS2123123LPQ117117",
+		"item_date": "2017-02-08 08:08:13",
+		"title": "Leveraging API Documentation for Customer Support",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aFQ1cFXtJaJ1q2D7lcsdavdmz0bKbJKzb9fq6sEmrTgIVTfScyPM5JwOqnnQOUARFXEbarP6z5D3123dcgEm5ScQ117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Designing Good Static REST API Documentation",
+		"url": "https://dzone.com/articles/designing-good-static-rest-api-documentation",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "jmuvPAqatjwNxL116dPGy9123Oe80NwtugfKGyb3cgeN5lE24LlSpS1V7LN6CN0dJ8fUwLus0X2pz116ojSu7LLJD116ZQ117117",
 		"item_date": "2017-02-07 08:35:19",
 		"title": "Untitled httphbrliDocAPI",
 		"url": "https://dzone.com/articles/documentation-driven-api-design",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1NkBMfOevFXPqDTKgTL1VY1hK3XTkN5Lq8xQ01ZtAldNe0xh1237hJeE9vChQfL1XdQJRusY9fmn9VTMKtD31SJA117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Use Automatic API Documentation Testing To Supercharge API Growth",
+		"url": "http://nordicapis.com/use-automatic-api-documentation-testing-to-supercharge-api-growth/",
+		"domain": "nordicapis.com",
 		"image": ""
 	},
 	{
@@ -26,7 +58,7 @@
 	{
 		"curated_id": "cUpB2Q7bz6sTjYXHKAeguL61167zBpmywBZC9KGs54krqYkGnB71OtdJR9FTX116oKcra4E3TXZbp00DWr1DJSIB4A117117",
 		"item_date": "2017-02-07 08:35:19",
-		"title": "Untitled httphbrliDocAPI",
+		"title": "DocumentationDriven API Design",
 		"url": "https://dzone.com/articles/documentation-driven-api-design",
 		"domain": "dzone.com",
 		"image": ""
