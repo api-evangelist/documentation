@@ -23,7 +23,7 @@ paths:
               $ref: '#/documentation/blog'
       tags:
         - Blog
-documentation:
+definitions:
   blog:
     properties:
       title:

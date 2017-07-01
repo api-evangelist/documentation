@@ -25,7 +25,7 @@ paths:
               $ref: '#/documentation/organizations'
       tags:
         - Organizations
-documentation:
+definitions:
   partner:
     properties:
       slug:

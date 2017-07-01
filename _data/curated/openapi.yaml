@@ -25,7 +25,7 @@ paths:
               $ref: '#/documentation/news'
       tags:
         - Curated
-documentation:
+definitions:
   news:
     properties:
       curated_id:
