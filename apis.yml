@@ -14,9 +14,11 @@ tags:
   - Static Site Generators
 url: https://raw.githubusercontent.com/api-evangelist/documentation/refs/heads/main/apis.yml
 created: '2026-03-18'
-modified: '2026-03-25'
+modified: '2026-03-27'
 specificationVersion: '0.19'
 network:
+  - name: ApiNotes
+    url: https://raw.githubusercontent.com/api-evangelist/apinotes/refs/heads/main/apis.yml
   - name: Apiary
     url: https://raw.githubusercontent.com/api-evangelist/apiary/refs/heads/main/apis.yml
   - name: Archbee
@@ -27,6 +29,8 @@ network:
     url: https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
   - name: Bump.sh
     url: https://raw.githubusercontent.com/api-evangelist/bump-sh/refs/heads/main/apis.yml
+  - name: DapperDox
+    url: https://raw.githubusercontent.com/api-evangelist/dapperdox/refs/heads/main/apis.yml
   - name: DeveloperHub
     url: https://raw.githubusercontent.com/api-evangelist/developerhub/refs/heads/main/apis.yml
   - name: Docsify
