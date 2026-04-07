@@ -8,9 +8,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Documentation
-  - Developer Portals
   - API Reference
+  - Developer Portals
+  - Documentation
   - Static Site Generators
 url: https://raw.githubusercontent.com/api-evangelist/documentation/refs/heads/main/apis.yml
 created: '2026-03-18'
