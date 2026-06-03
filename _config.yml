@@ -1,0 +1,19 @@
+title: Documentation
+description: A curated index of services, tooling, and open source solutions for producing
+  API and developer documentation. This collection covers hosted documentation platforms,
+  open source static site generators, API reference renderers, SDK generators, and
+  developer portal tools across the documentation lifecycle stop.
+url: https://documentation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

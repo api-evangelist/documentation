@@ -1,0 +1,141 @@
+meta:
+  name: Documentation
+  description: A curated index of services, tooling, and open source solutions for
+    producing API and developer documentation. This collection covers hosted documentation
+    platforms, open source static site generators, API reference renderers, SDK generators,
+    and developer portal tools across the documentation lifecycle stop.
+  tags:
+  - API Reference
+  - Developer Portals
+  - Documentation
+  - Static Site Generators
+  portal: null
+  github: null
+  repo: documentation
+services_tools:
+- name: ApiNotes
+  repo: https://github.com/api-evangelist/apinotes
+  apisio: https://providers.apis.io/providers/apinotes/
+- name: Apiary
+  repo: https://github.com/api-evangelist/apiary
+  apisio: https://providers.apis.io/providers/apiary/
+- name: Archbee
+  repo: https://github.com/api-evangelist/archbee
+  apisio: https://providers.apis.io/providers/archbee/
+- name: Backstage
+  repo: https://github.com/api-evangelist/backstage
+  apisio: https://providers.apis.io/providers/backstage/
+- name: Bruno
+  repo: https://github.com/api-evangelist/bruno
+  apisio: https://providers.apis.io/providers/bruno/
+- name: Bump.sh
+  repo: https://github.com/api-evangelist/bump-sh
+  apisio: https://providers.apis.io/providers/bump-sh/
+- name: DapperDox
+  repo: https://github.com/api-evangelist/dapperdox
+  apisio: https://providers.apis.io/providers/dapperdox/
+- name: DeveloperHub
+  repo: https://github.com/api-evangelist/developerhub
+  apisio: https://providers.apis.io/providers/developerhub/
+- name: Docsify
+  repo: https://github.com/api-evangelist/docsify
+  apisio: https://providers.apis.io/providers/docsify/
+- name: Doctave
+  repo: https://github.com/api-evangelist/doctave
+  apisio: https://providers.apis.io/providers/doctave/
+- name: Document360
+  repo: https://github.com/api-evangelist/document360
+  apisio: https://providers.apis.io/providers/document360/
+- name: Docusaurus
+  repo: https://github.com/api-evangelist/docusaurus
+  apisio: https://providers.apis.io/providers/docusaurus/
+- name: Elements
+  repo: https://github.com/api-evangelist/elements
+  apisio: https://providers.apis.io/providers/elements/
+- name: Fern
+  repo: https://github.com/api-evangelist/fern
+  apisio: https://providers.apis.io/providers/fern/
+- name: Fumadocs
+  repo: https://github.com/api-evangelist/fumadocs
+  apisio: https://providers.apis.io/providers/fumadocs/
+- name: GitBook
+  repo: https://github.com/api-evangelist/gitbook
+  apisio: https://providers.apis.io/providers/gitbook/
+- name: Hoppscotch
+  repo: https://github.com/api-evangelist/hoppscotch
+  apisio: https://providers.apis.io/providers/hoppscotch/
+- name: Insomnia
+  repo: https://github.com/api-evangelist/insomnia
+  apisio: https://providers.apis.io/providers/insomnia/
+- name: Mintlify
+  repo: https://github.com/api-evangelist/mintlify
+  apisio: https://providers.apis.io/providers/mintlify/
+- name: MkDocs
+  repo: https://github.com/api-evangelist/mkdocs
+  apisio: https://providers.apis.io/providers/mkdocs/
+- name: Nextra
+  repo: https://github.com/api-evangelist/nextra
+  apisio: https://providers.apis.io/providers/nextra/
+- name: OpenAPI Generator
+  repo: https://github.com/api-evangelist/openapi-generator
+  apisio: https://providers.apis.io/providers/openapi-generator/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: RapiDoc
+  repo: https://github.com/api-evangelist/rapidoc
+  apisio: https://providers.apis.io/providers/rapidoc/
+- name: ReadMe
+  repo: https://github.com/api-evangelist/readme
+  apisio: https://providers.apis.io/providers/readme/
+- name: ReDoc
+  repo: https://github.com/api-evangelist/redoc
+  apisio: https://providers.apis.io/providers/redoc/
+- name: Redocly
+  repo: https://github.com/api-evangelist/redocly
+  apisio: https://providers.apis.io/providers/redocly/
+- name: Scalar
+  repo: https://github.com/api-evangelist/scalar
+  apisio: https://providers.apis.io/providers/scalar/
+- name: Sideko
+  repo: https://github.com/api-evangelist/sideko
+  apisio: https://providers.apis.io/providers/sideko/
+- name: Slate
+  repo: https://github.com/api-evangelist/slate
+  apisio: https://providers.apis.io/providers/slate/
+- name: Speakeasy
+  repo: https://github.com/api-evangelist/speakeasy
+  apisio: https://providers.apis.io/providers/speakeasy/
+- name: Spectral
+  repo: https://github.com/api-evangelist/spectral
+  apisio: https://providers.apis.io/providers/spectral/
+- name: Stainless
+  repo: https://github.com/api-evangelist/stainless
+  apisio: https://providers.apis.io/providers/stainless/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: Swagger
+  repo: https://github.com/api-evangelist/swagger
+  apisio: https://providers.apis.io/providers/swagger/
+- name: SwaggerHub
+  repo: https://github.com/api-evangelist/swaggerhub
+  apisio: https://providers.apis.io/providers/swaggerhub/
+- name: Theneo
+  repo: https://github.com/api-evangelist/theneo
+  apisio: https://providers.apis.io/providers/theneo/
+- name: Vacuum
+  repo: https://github.com/api-evangelist/vacuum
+  apisio: https://providers.apis.io/providers/vacuum/
+- name: VitePress
+  repo: https://github.com/api-evangelist/vitepress
+  apisio: https://providers.apis.io/providers/vitepress/
+- name: zeroheight
+  repo: https://github.com/api-evangelist/zeroheight
+  apisio: https://providers.apis.io/providers/zeroheight/
+- name: Zudoku
+  repo: https://github.com/api-evangelist/zudoku
+  apisio: https://providers.apis.io/providers/zudoku/
+features: []
+use_cases: []
+integrations: []
