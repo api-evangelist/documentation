@@ -1,0 +1,31 @@
+related:
+- name: Developer Experience
+  url: https://developer-experience.apievangelist.com
+  icon: https://developer-experience.apievangelist.com/icon.png
+  description: This is the index of developer experience service and tooling repos being tracked by the
+    API Evangelist network, covering developer portals, API documentation platforms, API…
+- name: Portal
+  url: https://portal.apievangelist.com
+  icon: https://portal.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API developer portals,
+    API catalogs, API marketplaces, and developer experience platforms. This collection…
+- name: Management
+  url: https://management.apievangelist.com
+  icon: https://management.apievangelist.com/icon.png
+  description: An index and topic collection covering full-stack API management platforms — solutions
+    that combine an API gateway, developer portal, analytics, monetization, governance, and…
+- name: IDE
+  url: https://ide.apievangelist.com
+  icon: https://ide.apievangelist.com/icon.png
+  description: An index and topic collection covering integrated development environments (IDEs), code
+    editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: API Clients
+  url: https://api-clients.apievangelist.com
+  icon: https://api-clients.apievangelist.com/icon.png
+  description: An index and topic collection covering API clients, the developer tools used to inspect,
+    debug, exercise, and document APIs interactively. API clients include desktop and web…
+- name: Agent Skills
+  url: https://agents-skills.apievangelist.com
+  icon: https://agents-skills.apievangelist.com/icon.png
+  description: An index and topic collection covering Agent Skills, the packaged, file-based capability
+    units that AI coding agents load to extend their behavior. Agent Skills bundle…
