@@ -1,6 +1,6 @@
 ---
-title: Set Up Developer Self-service in Your Internal Developer Portal | Port
-link: https://www.port.io/blog/developer-self-service-in-your-internal-developer-portal
+title: Managing standards in a developer portal - a how-to guide
+link: https://www.port.io/blog/managing-standards-in-a-developer-portal
 published: '2026-07-22'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io
