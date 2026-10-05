@@ -1,5 +1,6 @@
 aid: documentation
 name: Documentation
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for producing
   API and developer documentation. This collection covers hosted documentation
