@@ -1,6 +1,6 @@
 ---
-title: 'Internal Developer Portal: How Do I Get Started?'
-link: https://www.port.io/blog/internal-developer-portal-how-do-i-get-started
+title: Why Appsec Teams Need Internal Developer Portals‍
+link: https://www.port.io/blog/why-appsec-teams-need-internal-developer-portals
 published: '2026-07-22'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io

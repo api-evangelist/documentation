@@ -1,6 +1,6 @@
 ---
-title: Managing standards in a developer portal - a how-to guide
-link: https://www.port.io/blog/managing-standards-in-a-developer-portal
+title: How We Use Our Own Developer Portal
+link: https://www.port.io/blog/use-our-own-developer-portal-worst-critics
 published: '2026-07-22'
 provider: port-io
 repo: https://github.com/api-evangelist/port-io
