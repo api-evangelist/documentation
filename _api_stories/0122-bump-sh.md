@@ -1,7 +1,8 @@
 ---
-title: A Developer's Guide to API Design-First
-link: https://bump.sh/blog/dev-guide-api-design-first/
-published: '2025-01-27'
+title: Why does a well-designed developer portal make all the difference for your
+  API adoption?
+link: https://bump.sh/blog/improve-api-experience-with-a-developer-portal/
+published: '2025-10-24'
 provider: bump-sh
 repo: https://github.com/api-evangelist/bump-sh
 domain: bump.sh
